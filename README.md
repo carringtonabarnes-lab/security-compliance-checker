@@ -1,5 +1,5 @@
 # Security Compliance Checker
-A Python application that audits macOS security settings by checking FileVault encryption, Firewall status, and Gatekeeper configuration. The project helps demonstrate security compliance concepts and Python automation.
+A Python application that audits macOS security settings by checking FileVault encryption, Firewall status, and Gatekeeper configuration. The application demonstrates Python automation and security compliance concepts through automated system security checks.
 
 ## Current Features
 
