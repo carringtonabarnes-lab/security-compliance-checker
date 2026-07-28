@@ -14,6 +14,15 @@ A Python application that audits macOS security settings by checking FileVault e
 - Python platform module
 - Python subprocess module
 
+## How to Run
+
+1. Clone the repository.
+2. Open a terminal.
+3. Run:
+
+```bash
+python3 audit.py
+
 ## Future Improvements
 
 - Compliance score
