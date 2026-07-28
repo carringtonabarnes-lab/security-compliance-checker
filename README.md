@@ -9,10 +9,10 @@ A Python application that audits macOS security settings by checking FileVault e
 
 ## Technologies
 
-- Python
-- platform
-- subprocess
-- macOS Terminal Commands
+• Python
+• macOS
+• Python platform module
+• Python subprocess module
 
 ## Future Improvements
 
